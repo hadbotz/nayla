@@ -1,6 +1,6 @@
 let fs = require('fs')
 global.DeveloperMode = 'false' //true atau false, true berati iya false berati tidak Moga paham
-global.owner = ['628818770766'] // masuk in no lu sebagai owner
+global.owner = ['6285749433476'] // masuk in no lu sebagai owner
 global.mods = ['6283897390164'] // masuk in no moderator ny
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // ini buat premium
 global.APIs = { // API Prefix
