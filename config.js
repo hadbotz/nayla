@@ -38,7 +38,7 @@ global.multiplier = 36 // ini butuh berapa xp buat levelup
 global.wait = '*❒ WET TUNGGU*'
 global.error = '*❒ ERROR COK MAAP*'
 global.botwm = '© Dirbotz' // watermark bot
-global.oname = 'HAD STORE' // nama owner nya
+global.oname = 'DirgaE' // nama owner nya
 global.thum = 'https://telegra.ph/file/5859353a380d9b67be198.jpg'
 
 let chalk = require('chalk')
